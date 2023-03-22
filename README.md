@@ -14,10 +14,6 @@ You can install these libraries using the following commands:
 
 ```
 pip install pandas
-```
-```
 pip install scikit-learn
-```
-```
 pip install tensorflow
 ```
